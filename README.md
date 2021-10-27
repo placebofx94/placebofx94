@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Samuel Bartolomedi @placebofx94
-- 👀 I’m interested data science, python, csharp
+- 👀 I’m interested in data science, python, csharp
 - 🌱 I’m currently learning csharp
 - 📫 samuelbartolomedi1994@gmail.com
 - 📫 samuel_bartolomedi@hotmail.com
